@@ -7,6 +7,5 @@
         public string Subject { get; set; }
         public string Text { get; set; }
 
-        //TODO: Сделать проверки
     }
 }

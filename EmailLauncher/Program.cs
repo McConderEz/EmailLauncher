@@ -7,8 +7,8 @@ using Aspose.Email.Clients.Pop3;
 using System.Runtime.CompilerServices;
 
 
-string login = "minoddein.ezz@gmail.com";
-string password = "urlruiukmyuarruj";
+string login = "";
+string password = "";
 
 #region ввод данных
 //var data = Authorize();
